@@ -282,7 +282,27 @@ nav .navi:hover{
 .contact .submit {
     margin: 0 auto;
 }
+/*Projects*/
+.project{
+    background-color: var(--primary-color3);
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2em;
+}
+.project h2{
+    font-size: 3em;
+    color: var(--text-color3);
+    text-align: center;
+    padding: 2em 0;
+    padding-bottom: 1em;
+}
+.project p{
+    color: rgba(255, 255, 255, 0.382);
+    font-size: 1.5em;
+    text-align: center;
+}
 
+/*footer*/
 footer{
     background-color: var(--primary-color1);
     padding: 3em 0;
