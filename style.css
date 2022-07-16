@@ -460,6 +460,9 @@ transform: scale(1.3);
               .social a i{
                 font-size: 0.7em;
               }
+              .social{
+                margin-left: -0.9em;
+              }
               .footer .finish{
                 max-width: 100%;
               }
