@@ -43,7 +43,7 @@ q:before, q:after {
 }
 /* end reset browser styles */
 :root{
-    --text-color1: #ff8903;
+    --text-color1: #ff5521;
     --text-color2: rgba(255, 206, 115, 0.775);
     --text-color3: #fff;
     --primary-color1: #01010f;
