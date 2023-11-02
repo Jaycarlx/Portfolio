@@ -150,14 +150,19 @@ nav .navi:hover{
 
 .intro h2{
     font-size: 1.5em;
+    margin-bottom: 2rem;
 }
 
-.intro input{
+/* .intro input{
     padding: 1.1em 8em;
     border-radius: 2em;
     margin-top: 3.50em;
     border: 2px var(--text-color1) solid;
     text-align: left;
+} */
+
+.intro a{
+    margin: 3rem;
 }
 
 .email{
